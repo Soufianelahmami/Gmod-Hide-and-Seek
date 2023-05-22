@@ -47,11 +47,11 @@
   "my_data":[
   {"desc1":"description1 ser ",
    "photo1":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"desc2":"Garry's Mod (Gmod) is a sandbox game that has captivated players worldwide since its release in 2004","photo2":"https://iili.io/HgvV5oF.jpg"},
+  {"desc3":"One of the most popular game modes within Gmod is Hide and Seek, which offers a unique and exhilarating experience for players.","photo3":"https://iili.io/HgvVAt1.jpg"},
+  {"desc4":"Combining elements of stealth, creativity, and teamwork, Gmod Hide and Seek has evolved into a beloved pastime for gamers of all ages. ","photo4":"https://iili.io/HgvVuwP.jpg"},
+  {"desc5":" This article explores the fascinating world of Gmod Hide and Seek, delving into its gameplay mechanics, the role of community creations, and the impact it has on fostering camaraderie among players.","photo5":"https://iili.io/HgvVTAB.jpg"},
+  {"descd":"Gmod Hide and Seek follows a simple yet captivating concept. The game is typically played on custom maps created by the Gmod community, with diverse environments ranging from houses and forests to space stations and fantasy realms. ","photod":"https://iili.io/HgvV7Mg.jpg"}
    ]
  
 }
